@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="DERBY_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/msysgit/msysgit/eclipse_friendly/war/WEB-INF/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/msysgit/msysgit/eclipse_friendly/war/WEB-INF/lib/cuke4duke-0.1.9.jar"/>
+	<classpathentry kind="lib" path="C:/msysgit/msysgit/eclipse_friendly/war/WEB-INF/lib/derby.jar"/>
+	<classpathentry kind="lib" path="C:/msysgit/msysgit/eclipse_friendly/war/WEB-INF/lib/derbyclient.jar"/>
+	<classpathentry kind="lib" path="C:/msysgit/msysgit/eclipse_friendly/war/WEB-INF/lib/derbynet.jar"/>
+	<classpathentry kind="lib" path="C:/msysgit/msysgit/eclipse_friendly/war/WEB-INF/lib/derbytools.jar"/>
+	<classpathentry kind="lib" path="C:/msysgit/msysgit/eclipse_friendly/war/WEB-INF/lib/gwt-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/msysgit/msysgit/eclipse_friendly/war/WEB-INF/lib/mockito-all-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/msysgit/msysgit/eclipse_friendly/war/WEB-INF/lib/src-1.0.zip"/>
+	<classpathentry kind="lib" path="C:/msysgit/msysgit/eclipse_friendly/war/WEB-INF/lib/ws-commons-util-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/msysgit/msysgit/eclipse_friendly/war/WEB-INF/lib/xmlrpc-client-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/msysgit/msysgit/eclipse_friendly/war/WEB-INF/lib/xmlrpc-common-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/msysgit/msysgit/eclipse_friendly/war/WEB-INF/lib/xmlrpc-server-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H_E/Documents/Downloads/javamail-1.4.3/javamail-1.4.3/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H_E/Documents/Downloads/javamail-1.4.3/javamail-1.4.3/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H_E/Documents/Downloads/javamail-1.4.3/javamail-1.4.3/lib/imap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H_E/Documents/Downloads/javamail-1.4.3/javamail-1.4.3/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H_E/Documents/Downloads/javamail-1.4.3/javamail-1.4.3/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H_E/Documents/Downloads/javamail-1.4.3/javamail-1.4.3/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H_E/Documents/Downloads/junit-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H_E/Documents/Downloads/google-collect-1.0/google-collect-1.0/google-collect-1.0.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>

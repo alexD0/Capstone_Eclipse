@@ -1,0 +1,232 @@
+2010-03-19 23:17:30.580 GMT : Apache Derby Network Server - 10.5.3.0 - (802917) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+2010-03-19 23:19:00.411 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance a816c00e-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:19:01.202 GMT:
+Shutting down instance a816c00e-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:19:01.215 GMT Thread[DRDAConnThread_4,5,main] (DATABASE = myDB), (DRDAID = {2}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:19:01.944 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 08264012-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:19:02.133 GMT:
+Shutting down instance 08264012-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:19:02.142 GMT Thread[DRDAConnThread_5,5,main] (DATABASE = myDB), (DRDAID = {4}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:19:04.468 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 6839c016-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:19:04.789 GMT:
+Shutting down instance 6839c016-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:19:04.794 GMT Thread[DRDAConnThread_3,5,main] (DATABASE = myDB), (DRDAID = {6}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:22:46.665 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance c851401a-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:22:46.924 GMT:
+Shutting down instance c851401a-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:22:46.928 GMT Thread[DRDAConnThread_4,5,main] (DATABASE = myDB), (DRDAID = {8}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:22:47.683 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 286cc01e-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:22:47.870 GMT:
+Shutting down instance 286cc01e-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:22:47.878 GMT Thread[DRDAConnThread_4,5,main] (DATABASE = myDB), (DRDAID = {10}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:22:51.043 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 888c4022-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:22:51.277 GMT:
+Shutting down instance 888c4022-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:22:51.282 GMT Thread[DRDAConnThread_3,5,main] (DATABASE = myDB), (DRDAID = {12}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:24:42.823 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance e8afc026-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:24:43.062 GMT:
+Shutting down instance e8afc026-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:24:43.066 GMT Thread[DRDAConnThread_4,5,main] (DATABASE = myDB), (DRDAID = {14}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:24:43.814 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 48d7402a-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:24:43.991 GMT:
+Shutting down instance 48d7402a-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:24:43.998 GMT Thread[DRDAConnThread_4,5,main] (DATABASE = myDB), (DRDAID = {16}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:24:45.104 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance a902c02e-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:24:45.313 GMT:
+Shutting down instance a902c02e-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:24:45.318 GMT Thread[DRDAConnThread_3,5,main] (DATABASE = myDB), (DRDAID = {18}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:29:06.269 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 09324032-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:29:06.477 GMT:
+Shutting down instance 09324032-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:29:06.481 GMT Thread[DRDAConnThread_4,5,main] (DATABASE = myDB), (DRDAID = {20}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:29:07.302 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 6965c036-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:29:07.513 GMT:
+Shutting down instance 6965c036-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:29:07.527 GMT Thread[DRDAConnThread_4,5,main] (DATABASE = myDB), (DRDAID = {22}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:29:08.672 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance c99d403a-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:29:08.861 GMT:
+Shutting down instance c99d403a-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:29:08.866 GMT Thread[DRDAConnThread_3,5,main] (DATABASE = myDB), (DRDAID = {24}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:38:09.348 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 29d8c03e-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:38:09.564 GMT:
+Shutting down instance 29d8c03e-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:38:09.569 GMT Thread[DRDAConnThread_4,5,main] (DATABASE = myDB), (DRDAID = {26}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:38:10.299 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 8a184042-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:38:10.494 GMT:
+Shutting down instance 8a184042-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:38:10.501 GMT Thread[DRDAConnThread_4,5,main] (DATABASE = myDB), (DRDAID = {28}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:38:11.640 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance ea5bc046-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:38:12.051 GMT:
+Shutting down instance ea5bc046-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:38:12.056 GMT Thread[DRDAConnThread_3,5,main] (DATABASE = myDB), (DRDAID = {30}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:40:33.724 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 4aa3404a-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:40:34.001 GMT:
+Shutting down instance 4aa3404a-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:40:34.009 GMT Thread[DRDAConnThread_4,5,main] (DATABASE = myDB), (DRDAID = {32}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:40:34.749 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance aaeec04e-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:40:34.972 GMT:
+Shutting down instance aaeec04e-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:40:34.977 GMT Thread[DRDAConnThread_4,5,main] (DATABASE = myDB), (DRDAID = {34}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:40:36.092 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 0b3e4052-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:40:36.264 GMT:
+Shutting down instance 0b3e4052-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:40:36.269 GMT Thread[DRDAConnThread_3,5,main] (DATABASE = myDB), (DRDAID = {36}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:42:55.036 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 6b91c056-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:42:55.433 GMT:
+Shutting down instance 6b91c056-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:42:55.437 GMT Thread[DRDAConnThread_4,5,main] (DATABASE = myDB), (DRDAID = {38}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:42:56.171 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance cbe9405a-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:42:56.371 GMT:
+Shutting down instance cbe9405a-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:42:56.377 GMT Thread[DRDAConnThread_4,5,main] (DATABASE = myDB), (DRDAID = {40}), Database 'myDB' shutdown.
+----------------------------------------------------------------
+2010-03-19 23:42:57.473 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 2c44c05e-0127-78b7-9906-00000000002e
+on database directory C:\Users\H_E\workspace\MainGUI\myDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-03-19 23:42:57.656 GMT:
+Shutting down instance 2c44c05e-0127-78b7-9906-00000000002e
+----------------------------------------------------------------
+2010-03-19 23:42:57.660 GMT Thread[DRDAConnThread_3,5,main] (DATABASE = myDB), (DRDAID = {42}), Database 'myDB' shutdown.
